@@ -13,7 +13,6 @@ A local web UI for [Microsoft's MarkItDown](https://github.com/microsoft/markitd
 
 Everything runs on your machine — files are converted in a temp file, then the temp file is deleted immediately after.
 
----
 
 ## Why convert to Markdown before sending to an AI?
 
@@ -34,7 +33,6 @@ When you attach a raw PDF or DOCX to an AI chat, the model must first parse the 
 
 > **Workflow:** Drop your PDF/DOCX here → copy the `.md` output → paste into your AI chat. Same information, fraction of the token cost.
 
----
 
 ## Features
 
